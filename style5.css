@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Monserrat', sans-serif;
+    overflow-x: hidden;
+    background: rgb(31, 30, 30);
+}
+
+.main h1 {
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+.main h2 {
+    color: white;
+    align-items: center;
+    text-align: center;
+}
